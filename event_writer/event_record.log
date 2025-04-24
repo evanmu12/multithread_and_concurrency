@@ -1,0 +1,17 @@
+Write Batch!
+"Thread-0: log message 0"
+"Thread-1: log message 0"
+"Thread-2: log message 0"
+"Thread-1: log message 1"
+"Thread-0: log message 1"
+"Thread-2: log message 1"
+"Thread-1: log message 2"
+Write Batch!
+"Thread-0: log message 2"
+"Thread-2: log message 2"
+"Thread-1: log message 3"
+"Thread-2: log message 3"
+"Thread-0: log message 3"
+"Thread-1: log message 4"
+"Thread-0: log message 4"
+"Thread-2: log message 4"
